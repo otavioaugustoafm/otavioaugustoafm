@@ -1,9 +1,13 @@
-<h1 align="center">Olá, Meu nome é Otávio Augusto</h1>
+<h1 align="center">Olá, meu nome é Otávio Monteiro!<br/><br/>
+Seja bem vindo!</h1>
+
+
 <h3 align="center">Aluno de Ciência da Computação pela PUC Minas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otavioaugustoafm&label=Profile%20views&color=0e75b6&style=flat" alt="otavioaugustoafm" /> </p>
+- 👨 Sobre mim:
 
-<p align="left"> <a href="https://twitter.com/tavao_a" target="blank"><img src="https://img.shields.io/twitter/follow/tavao_a?logo=twitter&style=for-the-badge" alt="tavao_a" /></a> </p>
+<p align="justify">Sempre estive em contato com o mundo digital, desde pequeno estive próximo a computadores e consoles. Por isso, criei gosto por essa área e pude explorar mais afundo enquanto aluno do CEFET-MG (2021-2023), onde cursei o técnico em Redes de Computadores e o ensino médio.
+Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estagiário em administração de redes na Teknisa, empresa brasileira de Minas Gerais. É meu primeiro emprego e, portanto, procuro crescer muito enquanto parte da equipe, tanto como pessoa, quanto como profissional. </p>
 
 - 🌱 Estou estudando **JAVA, Arquitetura de Computadores**
 
@@ -11,7 +15,7 @@
 
 - 📫 Meu e-mail **otavioaugustoafm@gmail.com**
 
-- 📄 Ensino Médio **Ensino Técnico em Redes de Computadores pelo CEFET-MG(2021-2023)**
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otavioaugustoafm&bg_color=240013&color=ff00ee&line=ff00ee&point=ff00ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
