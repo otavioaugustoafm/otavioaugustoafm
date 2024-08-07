@@ -1,6 +1,5 @@
-<h1 align="center">Olá 👋, Meu nome é Otávio Augusto</h1>
+<h1 align="center">Olá, Meu nome é Otávio Augusto</h1>
 <h3 align="center">Aluno de Ciência da Computação pela PUC Minas</h3>
-<img aligh="right" Alt="Coding" widht="400" src="https://i.gifer.com/2MgJ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otavioaugustoafm&label=Profile%20views&color=0e75b6&style=flat" alt="otavioaugustoafm" /> </p>
 
