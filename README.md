@@ -15,6 +15,8 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
 
 - 📫 Meu e-mail **otavioaugustoafm@gmail.com**
 
+- ✅ Você pode acessar meu [currículo](Currículo-OtávioAugusto-.md) aqui. 
+
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otavioaugustoafm&bg_color=2c002f&color=dd00d6&line=dd00d6&point=dd00d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
