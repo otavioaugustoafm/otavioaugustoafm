@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Cormorant&color=dd00d6&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Ot%C3%A1vio+Monteiro;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-<h3 align="center">Aluno de Ciência da Computação pela PUC Minas</h3>
+<h3 align="center">Aluno de Ciência da Computação pela PUC Minas</span></h3>
 
 - 👨 Sobre mim:
 
