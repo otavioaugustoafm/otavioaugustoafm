@@ -65,3 +65,5 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm" /></p>
 
+![Layered Waves](layered-waves-haikei2.svg)
+
