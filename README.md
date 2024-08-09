@@ -1,6 +1,6 @@
 ![Layered Waves](/Images/layered-waves-haikei.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Cormorant&color=FF00EE&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Ot%C3%A1vio+Monteiro;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Cormorant&color=dd00d6&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Ot%C3%A1vio+Monteiro;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <h3 align="center">Aluno de Ciência da Computação pela PUC Minas</h3>
 
@@ -15,7 +15,7 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
 
 - 📫 Meu e-mail **otavioaugustoafm@gmail.com**
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otavioaugustoafm&bg_color=240013&color=ff00ee&line=ff00ee&point=ff00ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otavioaugustoafm&bg_color=2c002f&color=dd00d6&line=dd00d6&point=dd00d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,11 +57,17 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm" /></p>
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm" style="height: 185px; width: 48%;">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaugustoafm&theme=radical" alt="otavioaugustoafm" style="height: 185px; width: 48%;">
+</div>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaugustoafm&theme=radical" alt="otavioaugustoafm" /></p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm">
+</div>
 
 ![Layered Waves](/Images/layered-waves-haikei2.svg)
 
