@@ -31,15 +31,15 @@
 
 ## FORMAÇÃO
 
-# Escolaridade
+## Escolaridade
 
   ### Ensino Médio | Centro Federal de Educação Tecnológica de Minas Gerais CEFET-MG | Início: Junho de 2021 \- Conclusão: Dezembro de 2023 
 
-# Curso técnico
+## Curso técnico
 
   ### Curso técnico em Redes de Computadores | Centro Federal de Educação Tecnológica de Minas Gerais CEFET-MG | Início: Junho de 2021 \- Conclusão: Dezembro de 2023  
 
-# Experiência
+## Experiência
 
   ### Estagiário em Administração de Redes | Teknisa - Empresa de software em Belo Horizonte, Minas Gerais | Início: Fevereiro de 2024 \- Previsão de conclusão: Fevereiro de 2025
 
