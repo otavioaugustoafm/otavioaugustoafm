@@ -1,4 +1,4 @@
-![Layered Waves](layered-waves-haikei.svg)
+![Layered Waves](/Images/layered-waves-haikei.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Cormorant&color=FF00EE&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Ot%C3%A1vio+Monteiro;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
@@ -61,9 +61,7 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaugustoafm&theme=radical" alt="otavioaugustoafm" /></p>
 
-<p>‎‎.............</br>‎.............</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm" /></p>
 
-![Layered Waves](layered-waves-haikei2.svg)
+![Layered Waves](/Images/layered-waves-haikei2.svg)
 
