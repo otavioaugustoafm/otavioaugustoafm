@@ -15,19 +15,19 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
 
 - 📫 Meu e-mail **otavioaugustoafm@gmail.com**
 
-- ✅ Você pode acessar meu [currículo](Currículo-OtávioAugusto-.md) aqui. 
+- ✅ Você pode acessar meu **[currículo](Currículo-OtávioAugusto-.md)** aqui. 
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otavioaugustoafm&bg_color=2c002f&color=dd00d6&line=dd00d6&point=dd00d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/tavao_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tavao_a" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/otávio-a-f-monteiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otávio-a-f-monteiro" height="30" width="40" /></a>
 <a href="https://instagram.com/otavioaugmf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otavioaugmf" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/c.png?raw=true"/></a></code>
