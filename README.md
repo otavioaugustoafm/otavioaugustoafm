@@ -56,11 +56,10 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm" style="height: 150px; width: 48%; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm" style="height: 185px; width: 48%; object-fit: cover;">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaugustoafm&theme=radical" alt="otavioaugustoafm" align="right" style="height: 185px; width: 48%; object-fit: cover;">
 </div>
