@@ -68,7 +68,7 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otavioaugustoafm&show_icons=true&locale=en&layout=compact&theme=radical" alt="otavioaugustoafm">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otavioaugustoafm&show_icons=true&locale=en&layout=compact&theme=radical&card_width=500&card_height=300" alt="otavioaugustoafm">
 </div>
 
 ![Layered Waves](/Images/layered-waves-haikei2.svg)
