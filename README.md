@@ -60,15 +60,15 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
 </p>
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm" align="left" style="height: 185px; width: 40%; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm" align="left" style="height: 185px; width: 48%; object-fit: cover;">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaugustoafm&theme=radical" alt="otavioaugustoafm" align="right" style="height: 185px; width: 40%; object-fit: cover;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaugustoafm&theme=radical" alt="otavioaugustoafm" align="right" style="height: 200px; width: 48%; object-fit: cover;">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otavioaugustoafm&show_icons=true&locale=en&layout=compact&theme=radical&card_width=400&card_height=300" alt="otavioaugustoafm">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otavioaugustoafm&show_icons=true&locale=en&layout=compact&theme=radical&card_width=400&card_height=185" alt="otavioaugustoafm">
 </div>
 
 ![Layered Waves](/Images/layered-waves-haikei2.svg)
