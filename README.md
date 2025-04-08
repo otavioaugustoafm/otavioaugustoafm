@@ -66,8 +66,7 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
 
 <br> 
 
-<div align="center">
-</div>
+
 
 ![Layered Waves](/Images/layered-waves-haikei2.svg)
 
