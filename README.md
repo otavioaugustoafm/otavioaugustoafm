@@ -58,10 +58,10 @@ Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estag
 &nbsp;
 </p>
 
-<div style="display: flex; justify-content: space-evenly;">
-  <img src="https://github-readme-stats.vercel.app/api?username=otavioaugustoafm&show_icons=true&locale=en&theme=radical" alt="otavioaugustoafm" style="height: 185px; width: 46%; object-fit: cover;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; padding: 10px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otavioaugustoafm&show_icons=true&locale=en&layout=compact&theme=radical&card_width=350&card_height=185" alt="otavioaugustoafm" style="height: 185px; width: 46%; object-fit: cover;">
 </div>
+
 
 
 <br> 
