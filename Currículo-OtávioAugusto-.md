@@ -8,6 +8,8 @@
 
 #### Email: [otavioaugustoafm@gmail.com](mailto:otavioaugustoafm@gmail.com)
 
+#### Instagram: [https://www.instagram.com/otavioaugmf/](https://www.instagram.com/otavioaugmf/)
+
 #### LinkedIn: [https://www.linkedin.com/in/otávio-augusto-b2b0912a3/](https://www.linkedin.com/in/ot%C3%A1vio-a-f-monteiro/)
 
 # Otávio Augusto de Assis Ferreira Monteiro
@@ -16,41 +18,60 @@
 
 ## OBJETIVOS
 
-### Estou em busca de expandir meus horizontes profissionais enquanto concluo minha graduação em Ciência da Computação. Com experiência em Redes de Computadores, onde auxilio na manutenção e compreensão da rede, desejo explorar diferentes áreas de atuação em TI. Meu objetivo é encontrar uma área que me interesse profundamente e onde eu possa crescer e contribuir de forma significativa.
+### Busco uma oportunidade de estágio ou posição júnior para aplicar e expandir meus conhecimentos em TI, com foco em desenvolvimento de software. Tenho experiência prática com redes e suporte técnico, e estou motivado a evoluir nessa nova área para ampliar meu repertório técnico e profissional.
 
-## HABILIDADES E COMPETÊNCIAS
+## HISTÓRICO PROFISSIONAL
+### ESTAGIÁRIO EM ADMINISTRAÇÃO DE REDES
 
-### * Conhecimento em Infraestrutura de Redes;   
-### * Conhecimento em Projeto de Redes (Configuração Lógica e Física);  
-### * Ferramenta OPNSense e PFSense (Proxy e Firewall para redes de computadores);  
-### * Conhecimento em sistemas operacionais Windows e Linux;  
-### * Programação básica em C, Java, Javascript, HTML, CSS e Python; 
-### * Manutenção básica de computadores ( Troca de peças, Identificar problemas)
-### * Atendimento ao cliente (Teknisa -> Clientes internos)
-### * Inglês intermediário.
+### * Gerenciamento da rede corporativa, com criação de usuários, controle de permissões e grupos de acesso;
+### * Manutenção e monitoramento de dispositivos conectados à rede, como desktops, notebooks e celulares;  
+### * Suporte técnico aos usuários, resolvendo problemas de conexão, hardware e uso diário;  
+### * Administração de contas de e-mail corporativo via Zimbra Webmail, com aplicação de políticas de segurança;
+### * Gerenciamento de ramais e comunicação interna utilizando a plataforma Planetfone; 
+### * Uso do pfSense para gerenciamento de firewall e controle de acesso à rede;
+### * Atendimento ao cliente (Teknisa -> Clientes internos);
+### * Apoio na documentação da infraestrutura de rede e inventário de ativos;
+### * Experiência em manutenção preventiva e corretiva de equipamentos e estações de trabalho;
 
-## FORMAÇÃO
+## FORMAÇÃO ACADÊMICA
 
-## Escolaridade
+### Escolaridade
 
 - ### **Ensino Médio**  
   ### Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)  
-  ### Início: Junho de 2021 – Conclusão: Dezembro de 2023  
+  ### Início: Março de 2021 – Conclusão: Dezembro de 2023  
 
-## Curso Técnico
+### Curso Técnico
 
 - ### **Curso Técnico em Redes de Computadores**  
   ### Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)  
-  ### Início: Junho de 2021 – Conclusão: Dezembro de 2023  
+  ### Início: Março de 2021 – Conclusão: Dezembro de 2023
+
+### Graduação
+
+- ### **Ciência da Computação**  
+  ### Pontifícia Universidade Católica de Minas Gerais (PUC-MG)
+  ### Início: Março de 2024 – Cursando -> Previsão de término: Dezembro de 2028
 
 ## Experiência
 
 - ### **Estagiário em Administração de Redes**  
   ### Teknisa - Empresa de software em Belo Horizonte, Minas Gerais  
-  ### Início: Fevereiro de 2024 – Previsão de conclusão: Fevereiro de 2025
+  ### Início: Fevereiro de 2024 – Previsão de conclusão: Fevereiro de 2026
 
-## 
+## HABILIDADES E COMPETÊNCIAS
 
-  ### 
+### * Conhecimento em linguagens deprogramação como Python, C, C++, C#, Java;
+### * Conhecimento em Windows e Linux;  
+### * Atendimento ao cliente;  
+### * Proatividade encarando diferentes desafios;
+### * Comunicação clara e efetiva com a equipe; 
+### * Uso do pfSense para gerenciamento de firewall e controle de acesso à rede;
+### * Flexibilidade para atuar em diferentes áreas;
+### * Comprometimento em realizar um trabalho de qualidade;
+
+## IDIOMAS
+  ### PORTUGUÊS: Língua Materna
+  ### INGLÊS: Intermediário - B2
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAAAECAYAAABmzIBlAAAAL0lEQVR4Xu3WMQEAMAzDsGILf07dPwiNDj1G4EmyAABN5g8AANcZIACgjgECAOo81LTt4j5q1qcAAAAASUVORK5CYII=>
