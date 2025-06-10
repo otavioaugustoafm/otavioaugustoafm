@@ -18,7 +18,7 @@
 
 ## OBJETIVOS
 
-### Busco uma oportunidade de estágio ou posição júnior para aplicar e expandir meusconhecimentos em TI. Tenho experiência prática com redes e suporte técnico, e estoumotivado a evoluir em outras áreas para ampliar meu repertório técnico e profissional.
+### Busco uma oportunidade de estágio ou posição júnior para aplicar e expandir meus conhecimentos em TI. Tenho experiência prática com redes e suporte técnico, e estoumotivado a evoluir em outras áreas para ampliar meu repertório técnico e profissional.
 
 ## HISTÓRICO PROFISSIONAL
 ### ESTAGIÁRIO EM ADMINISTRAÇÃO DE REDES
