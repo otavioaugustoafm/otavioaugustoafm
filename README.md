@@ -15,7 +15,7 @@ Minha jornada começou no curso técnico em Redes de Computadores pelo CEFET-MG,
 
 - 📫 Meu e-mail **otavioaugustoafm@gmail.com**
 
-- ✅ Você pode acessar meu **[currículo](Currículo-OtávioAugusto-.md)** aqui. 
+- ✅ Você pode acessar meu **[currículo](Otavio_Augusto_de_Assis_Ferreira_Monteiro_Curriculo)** aqui. 
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otavioaugustoafm&bg_color=2c002f&color=dd00d6&line=dd00d6&point=dd00d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
