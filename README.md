@@ -26,7 +26,7 @@ Minha jornada começou no curso técnico em Redes de Computadores pelo CEFET-MG,
 <a href="https://instagram.com/otavioaugmf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otavioaugmf" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center"> 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
