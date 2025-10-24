@@ -19,7 +19,7 @@ Minha jornada começou no curso técnico em Redes de Computadores pelo CEFET-MG,
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=otavioaugustoafm&bg_color=2c002f&color=dd00d6&line=dd00d6&point=dd00d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Minhas redes:</h3>
 <p align="center">
 <a href="https://twitter.com/tavao_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tavao_a" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/otávio-a-f-monteiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otávio-a-f-monteiro" height="30" width="40" /></a>
