@@ -6,12 +6,12 @@
 
 - 👨 Sobre mim:
 
-<p align="justify">Sempre estive em contato com o mundo digital, desde pequeno estive próximo a computadores e consoles. Por isso, criei gosto por essa área e pude explorar mais afundo enquanto aluno do CEFET-MG (2021-2023), onde cursei o técnico em Redes de Computadores e o ensino médio.
-Atualmente, sou aluno de Ciência da Computação na PUC Minas e atuo como estagiário em administração de redes na Teknisa, empresa brasileira de Minas Gerais. É meu primeiro emprego e, portanto, procuro crescer muito enquanto parte da equipe, tanto como pessoa, quanto como profissional. </p>
+<p align="justify">Olá! Atualmente, curso Ciência da Computação na PUC Minas, onde aprofundo meus conhecimentos teóricos, ao mesmo tempo em que os aplico na prática como estagiário em Administração de Redes na Teknisa.
+Minha jornada começou no curso técnico em Redes de Computadores pelo CEFET-MG, uma formação que me proporcionou uma base robusta em infraestrutura e sistemas. Agora, meu objetivo é expandir essa base, explorando as múltiplas facetas da computação, do desenvolvimento de software à segurança da informação. Tenho grande interesse em vivenciar diferentes desafios para construir uma carreira dinâmica e alinhada às inovações do mercado. </p>
 
 - 🌱 Estou estudando **JAVA, Arquitetura de Computadores**
 
-- 💬 Tenho conhecimentos em **C, C++, JAVA, JavaScript, HTML, CSS**
+- 💬 Tenho conhecimentos em **C, C++, JAVA, JavaScript, HTML, CSS, Metodologias Ágeis (Scrum, Kanban), Arquitetura de Computadores, Modelagem e Avaliação de desempenho, etc**
 
 - 📫 Meu e-mail **otavioaugustoafm@gmail.com**
 
