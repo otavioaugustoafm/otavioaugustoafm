@@ -9,7 +9,7 @@
 <p align="justify">Olá! Atualmente, curso Ciência da Computação na PUC Minas, onde aprofundo meus conhecimentos teóricos, ao mesmo tempo em que os aplico na prática como estagiário em Administração de Redes na Teknisa.
 Minha jornada começou no curso técnico em Redes de Computadores pelo CEFET-MG, uma formação que me proporcionou uma base robusta em infraestrutura e sistemas. Agora, busco uma oportunidade de estágio em empresas que me permitam aplicar conhecimentos desenvolvidos ao longo do meu curso. Procuro novos desafios e oportunidades para crescer e estou aberto a experiências diversas, como Desenvolvimento de Software, SecOps, DevOps e muitas outras áreas.</p>
 
-- 🌱 Estou estudando **JAVA, Arquitetura de Computadores**
+- 🌱 Estou estudando **Grafos, IA, Java e Python**!
 
 - 💬 Tenho conhecimentos em **C, C++, JAVA, JavaScript, HTML, CSS, Metodologias Ágeis (Scrum, Kanban), Arquitetura de Computadores, Modelagem e Avaliação de desempenho, etc**
 
